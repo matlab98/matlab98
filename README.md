@@ -7,26 +7,19 @@ I am a Geek boy, passionate about art, I like to practice Taekwondo and Shogi. �
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
-<img src="https://i.pinimg.com/originals/42/a0/54/42a054ed1dd5751f5cace8a7eba0eabe.gif" width="30px"> 
 
-<details open>
- <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats"> </summary>  
-<br>
-</details>
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats">  
 
 - 🔭 I’m currently working on (https://hbenterprise.netlify.app)
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything [here](https://github.com/matlab98/matlab98/issues)
+
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 **Languages and Tools:**  
 
@@ -53,9 +46,21 @@ Here are some ideas to get you started:
 </a>
 <br />
 <br />
+
 <a href="https://twitter.com/HilbraKaku">
-  <img align="left" alt="Hilder Arrieta | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="center" alt="Hilder's Twitter | Twitter" width="21px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />
 </a>
 <a href="https://discord.gg/tMtNNrHmGe">
-  <img align="left" alt="Hilder's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="center" alt="Hilder's Discord" width="21px" src="https://img.icons8.com/color/96/000000/discord-new-logo.png" />
 </a>
+<a href="https://www.linkedin.com/in/hilbra-kaku/">
+  <img align="center" alt="Hilder's Linkedin" width="21px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
+</a>
+<a href="http://harrietaruiz19@outlook.com">
+  <img align="center" alt="Hilder's Email" width="21px" src="https://img.icons8.com/color/96/000000/important-mail.png" />
+</a>
+<a href="https://www.facebook.com/Hildera/">
+  <img align="center" alt="Hilder's Facebook" width="21px" src="https://img.icons8.com/color/96/000000/facebook.png" />
+</a>
+
+
