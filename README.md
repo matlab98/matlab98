@@ -26,10 +26,6 @@
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything [here](https://github.com/matlab98/matlab98/issues)
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 ### **📊 GitHub stats**
 
 <div align="center" style="text-align:center">
