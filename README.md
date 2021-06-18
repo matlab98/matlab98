@@ -42,6 +42,12 @@ Here are some ideas to get you started:
 </a>
 <br />
 <br />
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hilbrakaku&repo=github-readme-stats&theme=material-palenight" />
+</a>
+
+<br />
+<br />
 
 <a align="center" href="https://twitter.com/HilbraKaku">
   <img align="center" alt="Hilder's Twitter | Twitter" width="21px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />
