@@ -22,7 +22,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats">  
 
-- 🔭 I’m currently working on (https://hbenterprise.netlify.app)
+- 🔭 I’m currently working on [web page](https://hbenterprise.netlify.app)
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything [here](https://github.com/matlab98/matlab98/issues)
 
@@ -30,7 +30,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### GitHub stats
+### **📊 GitHub stats**
 
 <div align="center" style="text-align:center">
     <a href="#">
@@ -47,9 +47,9 @@
             alt="Hilder's wakatime last year stats">
     </a>
 </div>
+  <br />
 
-
-**Languages and Tools:**  
+**⚡ Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -57,14 +57,16 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>    
 
-
+<div align="center" style="text-align:center">
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matlab98&layout=compact&theme=material-palenight&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matlab98&layout=compact&theme=material-palenight&langs_count=100" />
 </a> 
-
+</div>
 <br />
 <br />
 
-<p align="center">With ❤️ by</p> [@matlab98](https://github.com/matlab98)
+<div align="center" style="text-align:center">
+  With ❤️ by <a href="https://github.com/matlab98">@matlab98</a>
+  </div>
 
 
