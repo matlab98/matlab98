@@ -29,20 +29,34 @@
 
 **⚡ Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>    
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Chakra" width="26px" src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf.jpg" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Neo4J" width="26px" src="https://c0.klipartz.com/pngpicture/997/968/sticker-png-neo4j-graph-database-logo-query-language-hard-disc-miscellaneous-electronics.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<img align="left" alt="GCP" width="26px" src="https://img.icons8.com/color/452/google-cloud-platform.png" />
+<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
+<br />
+<br />
 <div align="center" style="text-align:center">
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matlab98&layout=compact&theme=material-palenight&langs_count=100" />
 </a> 
 </div>
-<br />
 <br />
 
 ### **🎧 Spotify Playing** 
@@ -56,19 +70,19 @@
 
 <p align="center">
 <a align="center" href="https://twitter.com/HilbraKaku">
-  <img align="center" alt="Hilder's Twitter | Twitter" width="21px" src="https://img.icons8.com/color/200/000000/twitter--v1.png" />
+  <img align="center" alt="Hilder's Twitter | Twitter" width="50px" src="https://img.icons8.com/color/200/000000/twitter--v1.png" />
 </a>
 <a align="center" href="https://discord.gg/tMtNNrHmGe">
-  <img align="center" alt="Hilder's Discord" width="21px" src="https://img.icons8.com/color/200/000000/discord-new-logo.png" />
+  <img align="center" alt="Hilder's Discord" width="50px" src="https://img.icons8.com/color/200/000000/discord-new-logo.png" />
 </a>
 <a align="center" href="https://www.linkedin.com/in/hilbra-kaku/">
-  <img align="center" alt="Hilder's Linkedin" width="21px" src="https://img.icons8.com/fluent/200/000000/linkedin.png" />
+  <img align="center" alt="Hilder's Linkedin" width="50px" src="https://img.icons8.com/fluent/200/000000/linkedin.png" />
 </a>
 <a align="center" href="http://harrietaruiz19@outlook.com">
-  <img align="center" alt="Hilder's Email" width="21px" src="https://img.icons8.com/color/200/000000/important-mail.png" />
+  <img align="center" alt="Hilder's Email" width="50px" src="https://img.icons8.com/color/200/000000/important-mail.png" />
 </a>
 <a align="center" href="https://www.facebook.com/Hildera/">
-  <img align="center" alt="Hilder's Facebook" width="21px" src="https://img.icons8.com/color/200/000000/facebook.png" />
+  <img align="center" alt="Hilder's Facebook" width="50px" src="https://img.icons8.com/color/200/000000/facebook.png" />
 </a>
 </p>
 
