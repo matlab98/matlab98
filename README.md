@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 <br>
 </details>
 
-<br />
-<br />
-
 - 🔭 I’m currently working on (https://hbenterprise.netlify.app)
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything [here](https://github.com/matlab98/matlab98/issues)
@@ -54,7 +51,8 @@ Here are some ideas to get you started:
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matlab98&repo=matlab98.github.io&theme=material-palenight" />
 </a>
-
+<br />
+<br />
 <a href="https://twitter.com/HilbraKaku">
   <img align="left" alt="Hilder Arrieta | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
