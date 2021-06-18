@@ -47,19 +47,19 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<a href="https://twitter.com/HilbraKaku">
+<a align="center" href="https://twitter.com/HilbraKaku">
   <img align="center" alt="Hilder's Twitter | Twitter" width="21px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />
 </a>
-<a href="https://discord.gg/tMtNNrHmGe">
+<a align="center" href="https://discord.gg/tMtNNrHmGe">
   <img align="center" alt="Hilder's Discord" width="21px" src="https://img.icons8.com/color/96/000000/discord-new-logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/hilbra-kaku/">
   <img align="center" alt="Hilder's Linkedin" width="21px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
 </a>
-<a href="http://harrietaruiz19@outlook.com">
+<a align="center" href="http://harrietaruiz19@outlook.com">
   <img align="center" alt="Hilder's Email" width="21px" src="https://img.icons8.com/color/96/000000/important-mail.png" />
 </a>
-<a href="https://www.facebook.com/Hildera/">
+<a align="center" href="https://www.facebook.com/Hildera/">
   <img align="center" alt="Hilder's Facebook" width="21px" src="https://img.icons8.com/color/96/000000/facebook.png" />
 </a>
 
