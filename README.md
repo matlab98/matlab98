@@ -42,7 +42,7 @@
             alt="Hilder's Github commit streak">
     </a>
   <br />
-    <a href="https://wakatime.com/@Josee9988/">
+    <a href="https://wakatime.com/@hilbrakaku/">
         <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@hilbrakaku&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
             alt="Hilder's wakatime last year stats">
     </a>
