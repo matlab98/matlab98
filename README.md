@@ -43,8 +43,9 @@
 <br />
 <br />
 
+---
 
-### **📫 How to reach me**
+## **📫 How to reach me**
 
 <p align="center">
 <a align="center" href="https://twitter.com/HilbraKaku">
@@ -63,6 +64,8 @@
   <img align="center" alt="Hilder's Facebook" width="21px" src="https://img.icons8.com/color/200/000000/facebook.png" />
 </a>
 </p>
+
+ ---
  
 <div align="center" style="text-align:center">
   With ❤️ by <a href="https://github.com/matlab98">@matlab98</a>
