@@ -47,9 +47,9 @@
 
 ### **🎧 Spotify Playing** 
  
-<div align="center" style="text-align:center">
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/5kOX6DrIcRKLQLCvE3xzgC?si=115f6af4ae9e4228)
-</div>
+
+[<img align="center" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" style="text-align:center" />](https://open.spotify.com/playlist/5kOX6DrIcRKLQLCvE3xzgC?si=115f6af4ae9e4228)
+
 ---
 
 ## **📫 How to reach me**
