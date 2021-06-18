@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Hilder. I am a goal-oriented, helpful, and highly resilient person.
+## Hi there 👋 I'm Hilder. I am a goal-oriented, helpful, and highly resilient person.
 
-I am a Geek boy, passionate about art, I like to practice Taekwondo and Shogi. 🥋☗ [matlab98!](https://matlab98.github.io) 👋
+#### I am a Geek boy, passionate about art, I like to practice Taekwondo and Shogi.  🥋☗ [matlab98!](https://matlab98.github.io) 👋
 
 <!--
 **matlab98/matlab98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
