@@ -43,19 +43,19 @@
 
 <p align="center">
 <a align="center" href="https://twitter.com/HilbraKaku">
-  <img align="center" alt="Hilder's Twitter | Twitter" width="21px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />
+  <img align="center" alt="Hilder's Twitter | Twitter" width="21px" src="https://img.icons8.com/color/200/000000/twitter--v1.png" />
 </a>
 <a align="center" href="https://discord.gg/tMtNNrHmGe">
-  <img align="center" alt="Hilder's Discord" width="21px" src="https://img.icons8.com/color/96/000000/discord-new-logo.png" />
+  <img align="center" alt="Hilder's Discord" width="21px" src="https://img.icons8.com/color/200/000000/discord-new-logo.png" />
 </a>
 <a align="center" href="https://www.linkedin.com/in/hilbra-kaku/">
-  <img align="center" alt="Hilder's Linkedin" width="21px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
+  <img align="center" alt="Hilder's Linkedin" width="21px" src="https://img.icons8.com/fluent/200/000000/linkedin.png" />
 </a>
 <a align="center" href="http://harrietaruiz19@outlook.com">
-  <img align="center" alt="Hilder's Email" width="21px" src="https://img.icons8.com/color/96/000000/important-mail.png" />
+  <img align="center" alt="Hilder's Email" width="21px" src="https://img.icons8.com/color/200/000000/important-mail.png" />
 </a>
 <a align="center" href="https://www.facebook.com/Hildera/">
-  <img align="center" alt="Hilder's Facebook" width="21px" src="https://img.icons8.com/color/96/000000/facebook.png" />
+  <img align="center" alt="Hilder's Facebook" width="21px" src="https://img.icons8.com/color/200/000000/facebook.png" />
 </a>
 </p>
 
