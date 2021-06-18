@@ -2,15 +2,6 @@
 
 #### I am a Geek boy, passionate about art, I like to practice Taekwondo and Shogi.  🥋☗ [matlab98!](https://matlab98.github.io) 👋
 
-<!--
-**matlab98/matlab98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats">  
 
 - 🔭 I’m currently working on (https://hbenterprise.netlify.app)
@@ -31,19 +22,14 @@ Here are some ideas to get you started:
 
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matlab98&show_icons=true&count_private=true&theme=dracula&line_height=27" 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matlab98&show_icons=true&count_private=true&theme=material-palenight&line_height=27" 
        alt="Hilder Arrieta's github stats" />
 </a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matlab98&layout=compact&theme=material-palenight&langs_count=6" />
 </a> 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@hilbrakaku" />
-</a>
-<br />
-<br />
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hilbrakaku&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@hilbrakaku&theme=material-palenight" />
 </a>
 
 <br />
