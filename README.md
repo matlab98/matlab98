@@ -65,6 +65,6 @@
 <br />
 <br />
 
-<p align="center">With ❤️ by[@matlab98](https://github.com/matlab98) </p> 
+<p align="center">With ❤️ by</p> [@matlab98](https://github.com/matlab98)
 
 
