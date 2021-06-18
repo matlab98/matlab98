@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React, Firebase and chackra UI
 - 💬 Ask me about anything [here](https://github.com/matlab98/matlab98/issues)
 
-### **📊 GitHub stats**
+## **📊 GitHub stats**
 
 <div align="center" style="text-align:center">
     <a href="#">
@@ -21,13 +21,13 @@
     </a>
   <br />
     <a href="https://wakatime.com/@hilbrakaku/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@hilbrakaku&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+        <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@hilbrakaku&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
             alt="Hilder's wakatime last year stats">
     </a>
 </div>
   <br />
 
-**⚡ Languages and Tools:**  
+## **⚡ Languages and Tools:**  
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,20 +35,21 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Chakra" width="26px" src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf.jpg" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Neo4J" width="26px" src="https://c0.klipartz.com/pngpicture/997/968/sticker-png-neo4j-graph-database-logo-query-language-hard-disc-miscellaneous-electronics.png" />
+<img align="left" alt="Neo4J" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxZXcAliAvDSazXRrZoCmMUiI0Tc4kLTjpcbf3H-FE_-dgUm7cDj-Yk_jZoEfVBOmwUW8&usqp=CAU" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="GCP" width="26px" src="https://img.icons8.com/color/452/google-cloud-platform.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
 <br />
 <br />
@@ -59,7 +60,7 @@
 </div>
 <br />
 
-### **🎧 Spotify Playing** 
+## **🎧 Spotify Playing** 
  
 
 [<img align="center" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" style="text-align:center" />](https://open.spotify.com/playlist/5kOX6DrIcRKLQLCvE3xzgC?si=115f6af4ae9e4228)
