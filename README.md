@@ -12,6 +12,18 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### GitHub stats
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matlab98&show_icons=true&count_private=true&theme=material-palenight&line_height=27" 
+       alt="Hilder Arrieta's github stats" />
+</a>
+<br />
+<br />
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@hilbrakaku&theme=material-palenight" />
+</a>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -22,19 +34,14 @@
 
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matlab98&show_icons=true&count_private=true&theme=material-palenight&line_height=27" 
-       alt="Hilder Arrieta's github stats" />
-</a>
-<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matlab98&layout=compact&theme=material-palenight&langs_count=6" />
 </a> 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@hilbrakaku&theme=material-palenight" />
-</a>
 
 <br />
 <br />
 
+
+<p align="center">
 <a align="center" href="https://twitter.com/HilbraKaku">
   <img align="center" alt="Hilder's Twitter | Twitter" width="21px" src="https://img.icons8.com/color/96/000000/twitter--v1.png" />
 </a>
@@ -50,5 +57,5 @@
 <a align="center" href="https://www.facebook.com/Hildera/">
   <img align="center" alt="Hilder's Facebook" width="21px" src="https://img.icons8.com/color/96/000000/facebook.png" />
 </a>
-
+</p>
 
