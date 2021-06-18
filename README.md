@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats">  
 
 - 🔭 I’m currently working on [web page](https://hbenterprise.netlify.app)
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Firebase and chackra UI
 - 💬 Ask me about anything [here](https://github.com/matlab98/matlab98/issues)
 
 ### **📊 GitHub stats**
