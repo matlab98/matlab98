@@ -2,24 +2,6 @@
 
 #### I am a Geek boy, passionate about art, I like to practice Taekwondo and Shogi.  🥋☗ [matlab98!](https://matlab98.github.io) 👋
 
-<p align="center">
-<a align="center" href="https://twitter.com/HilbraKaku">
-  <img align="center" alt="Hilder's Twitter | Twitter" width="21px" src="https://img.icons8.com/color/200/000000/twitter--v1.png" />
-</a>
-<a align="center" href="https://discord.gg/tMtNNrHmGe">
-  <img align="center" alt="Hilder's Discord" width="21px" src="https://img.icons8.com/color/200/000000/discord-new-logo.png" />
-</a>
-<a align="center" href="https://www.linkedin.com/in/hilbra-kaku/">
-  <img align="center" alt="Hilder's Linkedin" width="21px" src="https://img.icons8.com/fluent/200/000000/linkedin.png" />
-</a>
-<a align="center" href="http://harrietaruiz19@outlook.com">
-  <img align="center" alt="Hilder's Email" width="21px" src="https://img.icons8.com/color/200/000000/important-mail.png" />
-</a>
-<a align="center" href="https://www.facebook.com/Hildera/">
-  <img align="center" alt="Hilder's Facebook" width="21px" src="https://img.icons8.com/color/200/000000/facebook.png" />
-</a>
-</p>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats">  
 
 - 🔭 I’m currently working on [web page](https://hbenterprise.netlify.app)
@@ -61,6 +43,27 @@
 <br />
 <br />
 
+
+### **📫 How to reach me**
+
+<p align="center">
+<a align="center" href="https://twitter.com/HilbraKaku">
+  <img align="center" alt="Hilder's Twitter | Twitter" width="21px" src="https://img.icons8.com/color/200/000000/twitter--v1.png" />
+</a>
+<a align="center" href="https://discord.gg/tMtNNrHmGe">
+  <img align="center" alt="Hilder's Discord" width="21px" src="https://img.icons8.com/color/200/000000/discord-new-logo.png" />
+</a>
+<a align="center" href="https://www.linkedin.com/in/hilbra-kaku/">
+  <img align="center" alt="Hilder's Linkedin" width="21px" src="https://img.icons8.com/fluent/200/000000/linkedin.png" />
+</a>
+<a align="center" href="http://harrietaruiz19@outlook.com">
+  <img align="center" alt="Hilder's Email" width="21px" src="https://img.icons8.com/color/200/000000/important-mail.png" />
+</a>
+<a align="center" href="https://www.facebook.com/Hildera/">
+  <img align="center" alt="Hilder's Facebook" width="21px" src="https://img.icons8.com/color/200/000000/facebook.png" />
+</a>
+</p>
+ 
 <div align="center" style="text-align:center">
   With ❤️ by <a href="https://github.com/matlab98">@matlab98</a>
   </div>
