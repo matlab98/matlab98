@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matlab98&repo=matlab98.github.io&theme=material-palenight" />
 </a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hilbrakaku" />
+</a>
 <br />
 <br />
 
@@ -53,7 +56,7 @@ Here are some ideas to get you started:
 <a align="center" href="https://discord.gg/tMtNNrHmGe">
   <img align="center" alt="Hilder's Discord" width="21px" src="https://img.icons8.com/color/96/000000/discord-new-logo.png" />
 </a>
-<a href="https://www.linkedin.com/in/hilbra-kaku/">
+<a align="center" href="https://www.linkedin.com/in/hilbra-kaku/">
   <img align="center" alt="Hilder's Linkedin" width="21px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />
 </a>
 <a align="center" href="http://harrietaruiz19@outlook.com">
