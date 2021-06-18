@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Hilder. I am a goal-oriented, helpful, and highly resilient person.
 
-I am a Geek boy, passionate about art, I like to practice Taekwondo and Shogi. 🥋☗ [Anurag!](https://matlab98.github.io) 👋
+I am a Geek boy, passionate about art, I like to practice Taekwondo and Shogi. 🥋☗ [matlab98!](https://matlab98.github.io) 👋
 
 <!--
 **matlab98/matlab98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,17 +22,7 @@ Here are some ideas to get you started:
 <details open>
  <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats"> </summary>  
 <br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=matlab98&show_icons=true&count_private=true&theme=dracula&line_height=27">
-</p>
 </details>
-
-<a href="https://twitter.com/HilbraKaku">
-  <img align="left" alt="Hilder Arrieta | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/tMtNNrHmGe">
-  <img align="left" alt="Hilder's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
 
 <br />
 <br />
@@ -63,4 +53,11 @@ Here are some ideas to get you started:
 </a>    
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matlab98&repo=matlab98.github.io&theme=material-palenight" />
+</a>
+
+<a href="https://twitter.com/HilbraKaku">
+  <img align="left" alt="Hilder Arrieta | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/tMtNNrHmGe">
+  <img align="left" alt="Hilder's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
