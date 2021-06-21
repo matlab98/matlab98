@@ -78,7 +78,7 @@
 <a align="center" href="https://www.linkedin.com/in/hilbra-kaku/">
   <img align="center" alt="Hilder's Linkedin" width="50px" src="https://img.icons8.com/fluent/200/000000/linkedin.png" />
 </a>
-<a align="center" Subject="Estoy%20interesado%20en%20ti..." href="mailto:harrietaruiz19@outlook.com">
+<a align="center" subject="Estoy%20interesado%20en%20ti..." href="mailto:harrietaruiz19@outlook.com">
   <img align="center" alt="Hilder's Email" width="50px" src="https://img.icons8.com/color/200/000000/important-mail.png" />
 </a>
 <a align="center" href="https://www.facebook.com/Hildera/">
