@@ -24,7 +24,6 @@
         <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@hilbrakaku&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
             alt="Hilder's wakatime last year stats">
     </a>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=matlab98&theme=dracula&line_height=25&langs_count=6">
 </div>
   <br />
 
