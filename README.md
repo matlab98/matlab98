@@ -42,6 +42,14 @@
     
 <img align="center" alt="Webpack" width="30px" src="https://img.icons8.com/dusk/64/000000/webpack.png" />
     
+  
+<img align="center" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+<img align="center" alt="JAVA" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
+<img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="center" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="center" alt="R" width="30px" src="http://res.cloudinary.com/dpykpv9hd/image/upload/v1625889215/cf6ljh3rwotgsakbne9c.png" />
+    
+    
 <img align="center" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="center" alt="MySQL" width="30px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
 <img align="center" alt="Neo4J" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxZXcAliAvDSazXRrZoCmMUiI0Tc4kLTjpcbf3H-FE_-dgUm7cDj-Yk_jZoEfVBOmwUW8&usqp=CAU" />
@@ -53,15 +61,6 @@
 <img align="center" alt="Azure" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <img align="center" alt="CircleCI" width="30px" src="https://img.icons8.com/color/48/000000/circleci.png" />
 <img align="center" alt="GitHub Actions" width="30px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" />
-
-    
-<img align="center" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-<img align="center" alt="JAVA" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
-<img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="center" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="center" alt="R" width="30px" src="http://res.cloudinary.com/dpykpv9hd/image/upload/v1625889215/cf6ljh3rwotgsakbne9c.png" />
-    
-    
 
     
 <img align="center" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
