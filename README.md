@@ -1,13 +1,10 @@
-## Hi there 👋 I'm Hilder.
+## Hi there 👋 I'm Hilder. 👨‍ 💻I'm a Full Stack Developer
 
 #### I am a Geek boy, passionate about art, I like to practice Taekwondo and Shogi.  🥋☗ [matlab98!](https://matlab98.github.io) 👋
 
 - 🔭 I’m currently working on [web page](https://hbenterprise.netlify.app)
 - 🌱 I’m currently learning React, Firebase and chackra UI
-- 💬 Ask me about anything [here](https://github.com/matlab98/matlab98/issues)
-
-- 👨‍💻 I'm a Full Stack Developer
-- 
+- 💬 Ask me about anything [here](https://github.com/matlab98/matlab98/issues) 
 
 ## **📊 GitHub stats**
 
