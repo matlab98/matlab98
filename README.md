@@ -85,13 +85,6 @@
 </div>
 <br />
 
-## **🎧 Spotify Playing** 
- 
-
-[<img align="center" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" style="text-align:center" />](https://open.spotify.com/playlist/5kOX6DrIcRKLQLCvE3xzgC?si=115f6af4ae9e4228)
-
----
-
 ## **📫 How to reach me**
 
 <p align="center">
