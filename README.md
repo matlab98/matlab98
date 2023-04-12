@@ -45,7 +45,6 @@
 <img align="center" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="center" alt="JAVA" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />
 <img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="center" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="center" alt="R" width="30px" src="http://res.cloudinary.com/dpykpv9hd/image/upload/v1625889215/cf6ljh3rwotgsakbne9c.png" />
 |      
 <img align="center" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
